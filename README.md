@@ -5,13 +5,13 @@ Basic malloc implementation with best fit and multithreading
 
 Base project:
 
-| Test | Number of tests | Passed|
-|------|-----------------|------|
-|Basics tests| 3 | 3 |
-|Intermediate tests| 15 | 15 |
-| Hard tests| 15 | 15 |
-|Best fit| 1 | 1 |
-|Exec tests| 2 | 2 |
+| Test |Passed|
+|------|------|
+|Basics tests|  100% |
+|Intermediate tests|  100% |
+| Hard tests| 100% |
+|Best fit|  100% |
+|Exec tests| 100% |
 ----------------------------
 Bonus:
 - It can launch my session through tty with startx (When it is not GTK powered or requires posix_memalign or a malloc_align posix compilant)
